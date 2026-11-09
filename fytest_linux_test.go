@@ -1,4 +1,4 @@
-//go:build linux
+//go:build linux && cgo
 
 // Vue Fyne pilotée sans écran (driver test) : chaque bouton réagit,
 // la garde anti-double-clic tient, le journal reçoit. Preuve headless
