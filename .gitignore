@@ -1,0 +1,4 @@
+cgo-gui.exe
+cgo-gui
+*.log
+dist/
